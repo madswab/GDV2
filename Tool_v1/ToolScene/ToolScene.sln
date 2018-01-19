@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolScene", "ToolScene.csproj", "{4C1EF376-96E3-AC2A-BD6D-0E8B4CD0ABE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolScene.Editor", "ToolScene.Editor.csproj", "{8D88B154-B6BE-075C-CE75-9DE7342CC05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1EF376-96E3-AC2A-BD6D-0E8B4CD0ABE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1EF376-96E3-AC2A-BD6D-0E8B4CD0ABE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1EF376-96E3-AC2A-BD6D-0E8B4CD0ABE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1EF376-96E3-AC2A-BD6D-0E8B4CD0ABE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D88B154-B6BE-075C-CE75-9DE7342CC05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D88B154-B6BE-075C-CE75-9DE7342CC05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D88B154-B6BE-075C-CE75-9DE7342CC05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D88B154-B6BE-075C-CE75-9DE7342CC05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

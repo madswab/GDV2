@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f15d8539ce236e41abc2153937726ba, type: 3}
+  m_Name: TestDatabase
+  m_EditorClassIdentifier: 
+  data:
+    tagMenu:
+    - Elven
+    - FreeWeapons
+    - KanOokZo/Random
+    data:
+    - name: Arrow
+      prefab: {fileID: 135712, guid: 533677cb17652a14db9f3162e5b1873c, type: 2}
+      prefabName: Elven_Arrow_02
+      category: Elven-KanOokZo/Random-
+      amoutOfTags: 2
+      tagStr: '-'
+      description: Drop Kick      JumpJumpJump      0
+    - name: Axe
+      prefab: {fileID: 166620, guid: 2469f3343d8be744eb61ba7335c06cd1, type: 2}
+      prefabName: Elven_Axe_01
+      category: Elven-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Default      JumpJumpJump      0
+    - name: Bow
+      prefab: {fileID: 199780, guid: 4a07030c74352b64db72f676860f4283, type: 2}
+      prefabName: Elven_Bow_01
+      category: Elven-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Default      SlapSlapThrow      50
+    - name: Hammer
+      prefab: {fileID: 185458, guid: be68c0faf28ac50449485c6829a358fb, type: 2}
+      prefabName: Elven_Hammer_01
+      category: Elven-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Default      JumpJumpJump      0
+    - name: Shield
+      prefab: {fileID: 165168, guid: 57e523454baa13f48808a01ed593254d, type: 2}
+      prefabName: Elven_Shield_01
+      category: Elven-KanOokZo/Random-
+      amoutOfTags: 2
+      tagStr: '-'
+      description: Default      JumpJumpJump      0
+    - name: Spear
+      prefab: {fileID: 145214, guid: a547278dde1a45f4aa5b5f20b9eb2621, type: 2}
+      prefabName: Elven_Spear_01
+      category: Elven-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Description
+    - name: Staff
+      prefab: {fileID: 102350, guid: 785a3eaa26f0e8e42b598b7e5ef9da2d, type: 2}
+      prefabName: Elven_Staff_01
+      category: Elven-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Description
+    - name: Sword
+      prefab: {fileID: 121958, guid: 39dd88d23b3b5d94b9be7faea8254cb1, type: 2}
+      prefabName: Elven_Sword_01
+      category: Elven-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Description
+    - name: Arrow
+      prefab: {fileID: 110294, guid: 3051594f379a444439ce45fcc3e6f4cb, type: 2}
+      prefabName: Arrow00_prefab
+      category: FreeWeapons-KanOokZo/Random-
+      amoutOfTags: 2
+      tagStr: '-'
+      description: Description
+    - name: Axe
+      prefab: {fileID: 174004, guid: c011a1e57cd5f9243899a7f80662de24, type: 2}
+      prefabName: Axe00_prefab
+      category: FreeWeapons-KanOokZo/Random-
+      amoutOfTags: 2
+      tagStr: '-'
+      description: Description
+    - name: Bow
+      prefab: {fileID: 107374, guid: 8e062b22defe42042888b26ed43d3b28, type: 2}
+      prefabName: Bow00_prefab
+      category: FreeWeapons-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Description
+    - name: Knife
+      prefab: {fileID: 111206, guid: 5d0b1e5a185905b43b9bc508a6f2a1d9, type: 2}
+      prefabName: Knife00_prefab
+      category: FreeWeapons-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Description
+    - name: Mace
+      prefab: {fileID: 100884, guid: fadd8f5a0d6261342a2f056a46d6983a, type: 2}
+      prefabName: Mace00_prefab
+      category: FreeWeapons-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Description
+    - name: Shield
+      prefab: {fileID: 127192, guid: 0d826ef1736502a4cbc499c3b87b4ded, type: 2}
+      prefabName: Shield00_prefab
+      category: FreeWeapons-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Description
+    - name: Staff
+      prefab: {fileID: 100102, guid: 62fc92e8f2c41514682b15bbc536666f, type: 2}
+      prefabName: Staff00_prefab
+      category: FreeWeapons-
+      amoutOfTags: 1
+      tagStr: '-'
+      description: Description
+    - name: Sword
+      prefab: {fileID: 181888, guid: 63f2563859c93e34393b95f32662eb8b, type: 2}
+      prefabName: Sword00_prefab
+      category: FreeWeapons-KanOokZo/Random-
+      amoutOfTags: 2
+      tagStr: '-'
+      description: Description
